@@ -24,8 +24,8 @@ binlog2sql
 ==============
 
 ```
-shell> git clone https://github.com/danfengcao/binlog2sql.git && cd binlog2sql
-shell> pip install -r requirements.txt
+shell> git clone https://github.com/taroorat/binlog2sql.git && cd binlog2sql
+shell>  pip install ./local_require/mysql5.7/*
 ```
 git与pip的安装问题请自行搜索解决。
 
